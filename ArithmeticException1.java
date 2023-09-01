@@ -4,7 +4,7 @@ class ArithmeticException1{
     {
         System.out.println("hello");
         try{
-            System.out.println(10/0);
+            System.out.println(10/2);
         }
         catch (ArithmeticException e)
         {
